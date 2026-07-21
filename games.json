@@ -1,0 +1,5207 @@
+[
+  {
+    "title": "Geometry Dash",
+    "slug": "geo-dash",
+    "page_url": "https://ozgames.io/geo-dash",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/geometry-dash-ozgamesio.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/geometry-lite-pc-game-m230x150.jpg"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Arcade Classics",
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Space Waves",
+    "slug": "space-waves",
+    "page_url": "https://ozgames.io/space-waves",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/space-waves.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Space-Waves-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Arcade Classics",
+      "Casual & Fun Games",
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Among Us",
+    "slug": "among-us",
+    "page_url": "https://ozgames.io/among-us",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Among-Us.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/among-us-m230x150.jpg"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Adventure Games",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Speed Stars",
+    "slug": "speed-stars",
+    "page_url": "https://ozgames.io/speed-stars",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/speedstars.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/speed-stars-cover-m230x150.png"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Casual & Fun Games",
+      "Racing & Driving Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Veck IO",
+    "slug": "veck-io",
+    "page_url": "https://ozgames.io/veck-io",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Veck-IO-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Veck-IO-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Action Games",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Subway Surfers",
+    "slug": "subway-surfers",
+    "page_url": "https://ozgames.io/subway-surfers",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/subway-surfers.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/SubwaySurfersthumb-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Adventure Games"
+    ]
+  },
+  {
+    "title": "Wacky Flip",
+    "slug": "wacky-flip",
+    "page_url": "https://ozgames.io/wacky-flip",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/wackyflip.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/wacky-flip-cover-m230x150.png"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Casual & Fun Games",
+      "Sports Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Level Devil 2",
+    "slug": "level-devil-2",
+    "page_url": "https://ozgames.io/level-devil-2",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Level-Devil-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Level-Devil-2-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Casual & Fun Games",
+      "Multiplayer Games",
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Survival Race",
+    "slug": "survival-race",
+    "page_url": "https://ozgames.io/survival-race",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Survival-race-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/survival-race-cover-m230x150.png"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Racing & Driving Games"
+    ]
+  },
+  {
+    "title": "Slope",
+    "slug": "slope",
+    "page_url": "https://ozgames.io/slope",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/slope.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/slopethumb-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Arcade Classics",
+      "Casual & Fun Games",
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Five Nights at Epstein's",
+    "slug": "five-nights-at-epsteins",
+    "page_url": "https://ozgames.io/five-nights-at-epsteins",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Five-Nights-at-Epsteins.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Five-Nights-at-Epsteins-m230x150.jpg"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Action Games",
+      "Simulation Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Stickman Hook",
+    "slug": "stickman-hook",
+    "page_url": "https://ozgames.io/stickman-hook",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/stickman-hook.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/stickman-hook-m230x150.png"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Adventure Games",
+      "Arcade Classics"
+    ]
+  },
+  {
+    "title": "Crazy Cattle 3D",
+    "slug": "crazy-cattle-3d",
+    "page_url": "https://ozgames.io/crazy-cattle-3d",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/crazycattle3d.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/crazy-cattle-3d-cover-m230x150.png"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Hot Games",
+      "Adventure Games"
+    ]
+  },
+  {
+    "title": "That's Not My Neighbor",
+    "slug": "thats-not-my-neighbor",
+    "page_url": "https://ozgames.io/thats-not-my-neighbor",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Thats-Not-My-Neighbor.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Thats-Not-My-Neighbor-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Puzzle & Brain Games",
+      "Simulation Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Sorry Bob",
+    "slug": "sorry-bob",
+    "page_url": "https://ozgames.io/sorry-bob",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/sorry-bob.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Sorry-Bob-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "2v2.io",
+    "slug": "2v2io",
+    "page_url": "https://ozgames.io/2v2io",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/2v2-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/2v2-io-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Adventure Games",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Dude Theft Auto",
+    "slug": "dude-theft-auto",
+    "page_url": "https://ozgames.io/dude-theft-auto",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Dude-Theft-Auto.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Dude-Theft-Auto-1-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Action Games",
+      "Adventure Games",
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Football Bros",
+    "slug": "football-bros",
+    "page_url": "https://ozgames.io/football-bros",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Football-Bros.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Football-Bros-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Multiplayer Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Italian Brainrot Clicker 2",
+    "slug": "italian-brainrot-clicker-2",
+    "page_url": "https://ozgames.io/italian-brainrot-clicker-2",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/ItalianBrainrotClicker2.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/italian-brainrot-clicker-2-cover-m230x150.png"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Super Mario Bros",
+    "slug": "super-mario-bros",
+    "page_url": "https://ozgames.io/super-mario-bros",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Super-Mario-Bros.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/grok-image-ec68625b-17eb-4ea2-8614-61248a97f493-m230x150.png"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Adventure Games",
+      "Arcade Classics",
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "Slope Rider",
+    "slug": "slope-rider",
+    "page_url": "https://ozgames.io/slope-rider",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/slope-rider-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/slope-rider-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Adventure Games",
+      "Racing & Driving Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Five Nights at Freddy's (FNAF)",
+    "slug": "five-nights-at-freddys",
+    "page_url": "https://ozgames.io/five-nights-at-freddys",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Five-Nights-at-Freddys.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Five-Nights-at-Freddy---s-m230x150.jpg"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Action Games",
+      "Simulation Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Soflo Wheelie Life",
+    "slug": "soflo-wheelie-life",
+    "page_url": "https://ozgames.io/soflo-wheelie-life",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Soflo-Wheelie-Life.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Soflo-Wheelie-Life-1-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Racing & Driving Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Ragdoll Flip",
+    "slug": "ragdoll-flip",
+    "page_url": "https://ozgames.io/ragdoll-flip",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Ragdoll-Flip.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Ragdoll-Flip-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Casual & Fun Games",
+      "Sports Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Basket Random",
+    "slug": "basket-random",
+    "page_url": "https://ozgames.io/basket-random",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/BasketRandom.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/basket-random-cover-m230x150.png"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Multiplayer Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Rocket League",
+    "slug": "rocket-league",
+    "page_url": "https://ozgames.io/rocket-league",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Rocket-League.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Rocket-League-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Arcade Classics",
+      "Sports Games",
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Traffic Road",
+    "slug": "traffic-road",
+    "page_url": "https://ozgames.io/traffic-road",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/TrafficRoad.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/traffic-road-cover-m230x150.png"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Adventure Games",
+      "Racing & Driving Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Baseball Bros",
+    "slug": "baseball-bros",
+    "page_url": "https://ozgames.io/baseball-bros",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Baseball-Bros.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Baseball-Bros-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Multiplayer Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Escape Road 3",
+    "slug": "escape-road-3",
+    "page_url": "https://ozgames.io/escape-road-3",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Escape-Road-3.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Escape-Road-3-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Hot Games",
+      "Action Games",
+      "Racing & Driving Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Ragdoll Hit Stickman",
+    "slug": "ragdoll-hit-stickman",
+    "page_url": "https://ozgames.io/ragdoll-hit-stickman",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/ragdollhitstickman.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/ragdoll-hit-stickman-cover-m230x150.png"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Action Games",
+      "Arcade Classics",
+      "Multiplayer Games",
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Steal Brainrots",
+    "slug": "steal-brainrots",
+    "page_url": "https://ozgames.io/steal-brainrots",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Steal-Brainrots.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/steals-Brainrots-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Adventure Games",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Smash Karts",
+    "slug": "smash-karts",
+    "page_url": "https://ozgames.io/smash-karts",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/smashkarts.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/smash-karts-m230x150.png"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Hot Games",
+      "Casual & Fun Games",
+      "Multiplayer Games",
+      "Racing & Driving Games"
+    ]
+  },
+  {
+    "title": "Hello Neighbor",
+    "slug": "hello-neighbor",
+    "page_url": "https://ozgames.io/hello-neighbor",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Hello-Neighbor-.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Hello-Neighbor-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Happy Glass",
+    "slug": "happy-glass",
+    "page_url": "https://ozgames.io/happy-glass",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/happy-glass.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/happy-glass-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Fish Dive",
+    "slug": "fish-dive",
+    "page_url": "https://ozgames.io/fish-dive",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Fish-Dive.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/fish-dive-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Soccer Random",
+    "slug": "soccer-random",
+    "page_url": "https://ozgames.io/soccer-random",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/soccer-random.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/soccer-random-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Soccer Skills 2 World Cup",
+    "slug": "soccer-skills-2-world-cup",
+    "page_url": "https://ozgames.io/soccer-skills-2-world-cup",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Soccer-Skills-2-World-Cup.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Soccer-Skills-2-World-Cup-2-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Pizza Clicker",
+    "slug": "pizza-clicker",
+    "page_url": "https://ozgames.io/pizza-clicker",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Pizza-Clicker.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/pizza-clicker-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "New Games",
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Super Mario 63",
+    "slug": "super-mario-63",
+    "page_url": "https://ozgames.io/super-mario-63",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Super-Mario-63.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Super-Mario-63-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "SuperFighters",
+    "slug": "superfighters",
+    "page_url": "https://ozgames.io/superfighters",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/SuperFighters.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/SuperFighters-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Mighty Knight 2",
+    "slug": "mighty-knight-2",
+    "page_url": "https://ozgames.io/mighty-knight-2",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Mighty-Knight-2.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Mighty-Knight-2-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Sphere Rush",
+    "slug": "sphere-rush",
+    "page_url": "https://ozgames.io/sphere-rush",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Sphere-Rush.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/sphere-rush-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "River Drift",
+    "slug": "river-drift",
+    "page_url": "https://ozgames.io/river-drift",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/River-Drift.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/River-Drift-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "New Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Angry Birds Space",
+    "slug": "angry-birds-space",
+    "page_url": "https://ozgames.io/angry-birds-space",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Angry-Birds-Space.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/bcde672b-e67f-48d6-88b7-31f2fc070b03-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Prankster 3D",
+    "slug": "prankster-3d",
+    "page_url": "https://ozgames.io/prankster-3d",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Prankster-3D.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/prankster-3d-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Blocky Xtreme",
+    "slug": "blocky-xtreme",
+    "page_url": "https://ozgames.io/blocky-xtreme",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Blocky-Xtreme.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/blocky-xtreme-1-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Vex Try To Fly",
+    "slug": "vex-try-to-fly",
+    "page_url": "https://ozgames.io/vex-try-to-fly",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Vex-Try-To-Fly.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Vex-Try-To-Fly-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Iron Snout",
+    "slug": "iron-snout",
+    "page_url": "https://ozgames.io/iron-snout",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Iron-Snout.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Iron-Snout-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Little Big Snake",
+    "slug": "little-big-snake",
+    "page_url": "https://ozgames.io/little-big-snake",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Little-Big-Snake.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Little-Big-Snake-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games",
+      "IO Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Soccer Bros",
+    "slug": "soccer-bros",
+    "page_url": "https://ozgames.io/soccer-bros",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Soccer-Bros.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Soccer-Bros-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Blocky Runner",
+    "slug": "blocky-runner",
+    "page_url": "https://ozgames.io/blocky-runner",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Blocky-Runner.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/blocky-runner-1-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Infiltrating the Airship",
+    "slug": "infiltrating-the-airship",
+    "page_url": "https://ozgames.io/infiltrating-the-airship",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Infiltrating-the-Airship.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Infiltrating-the-Airship-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Swords & Souls",
+    "slug": "swords-amp-souls",
+    "page_url": "https://ozgames.io/swords-amp-souls",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Swords--Souls.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Swords--Souls-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Ski Safari",
+    "slug": "ski-safari",
+    "page_url": "https://ozgames.io/ski-safari",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Ski-Safari.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Ski-Safari-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Parking Adventure",
+    "slug": "parking-adventure",
+    "page_url": "https://ozgames.io/parking-adventure",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Parking-Adventure.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/parking-adventure-1-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Regular Show: Fist Punch",
+    "slug": "regular-show-fist-punch",
+    "page_url": "https://ozgames.io/regular-show-fist-punch",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Regular-Show-Fist-Punch.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Regular-Show-Fist-Punch-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Combat Online",
+    "slug": "combat-online",
+    "page_url": "https://ozgames.io/combat-online",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/combat-online.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/combat-online-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Meccha Chameleon",
+    "slug": "meccha-chameleon",
+    "page_url": "https://ozgames.io/meccha-chameleon",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Meccha-Chameleon.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Meccha-Chameleon-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "New Games",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Neon Rush",
+    "slug": "neon-rush",
+    "page_url": "https://ozgames.io/neon-rush",
+    "video": {
+      "url": "https://ozgames.io"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/neon-rush-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Her Trees",
+    "slug": "her-trees",
+    "page_url": "https://ozgames.io/her-trees",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Her-Trees.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/her-trees-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Meowdoku",
+    "slug": "meowdoku",
+    "page_url": "https://ozgames.io/meowdoku",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Meowdoku.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/meowdoku-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Bowling Master",
+    "slug": "bowling-master",
+    "page_url": "https://ozgames.io/bowling-master",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Bowling-Master.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/bowling-master-2-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games"
+    ]
+  },
+  {
+    "title": "Drunken Boxing 2",
+    "slug": "drunken-boxing-2",
+    "page_url": "https://ozgames.io/drunken-boxing-2",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Drunken-Boxing-2.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Drunken-Boxing-2-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Who Dies Last",
+    "slug": "who-dies-last",
+    "page_url": "https://ozgames.io/who-dies-last",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Who-Dies-Last.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Who-Dies-Last-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "New Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Scary Teacher 3D",
+    "slug": "scary-teacher-3d",
+    "page_url": "https://ozgames.io/scary-teacher-3d",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/ScaryTeacher3D.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/scary-teacher-3d-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Adventure Games",
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Brawl Stars",
+    "slug": "brawl-stars",
+    "page_url": "https://ozgames.io/brawl-stars",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Brawl-Stars.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Brawl-Stars-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Adventure Games",
+      "Arcade Classics",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Escape Tsunami Brainrots Online",
+    "slug": "escape-tsunami-brainrots-online",
+    "page_url": "https://ozgames.io/escape-tsunami-brainrots-online",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Escape-Tsunami-Brainrots-Online.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Escape-Tsunami-Brainrots-Online-m230x150.JPG"
+    },
+    "labels": [
+      "Updated"
+    ],
+    "categories": [
+      "Action Games",
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "Undead Corridor",
+    "slug": "undead-corridor",
+    "page_url": "https://ozgames.io/undead-corridor",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Undead-Corridor.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Undead-Corridor-1-m230x150.JPG"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Action Games"
+    ]
+  },
+  {
+    "title": "Stunt Bike Extreme",
+    "slug": "stunt-bike-extreme",
+    "page_url": "https://ozgames.io/stunt-bike-extreme",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/StuntBikeExtreme.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/stunt-bike-extreme-cover-m230x150.png"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Action Games",
+      "Adventure Games",
+      "Racing & Driving Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Murder",
+    "slug": "murder",
+    "page_url": "https://ozgames.io/murder",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/murder.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/murder-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Arcade Classics",
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "Ragdoll Archers",
+    "slug": "ragdoll-archers",
+    "page_url": "https://ozgames.io/ragdoll-archers",
+    "video": {
+      "url": "https://ozgames.io"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/ragdoll-archers-cover-m230x150.png"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Action Games",
+      "Arcade Classics",
+      "Casual & Fun Games",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "1v1 LOL",
+    "slug": "1v1-lol",
+    "page_url": "https://ozgames.io/1v1-lol",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/1v1-LOL.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/1v1-LOL-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Action Games",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Escape Road 2",
+    "slug": "escape-road-2",
+    "page_url": "https://ozgames.io/escape-road-2",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/escaperoad2.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/escape-road-2-cover-m230x150.png"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Action Games",
+      "Adventure Games",
+      "Arcade Classics",
+      "Racing & Driving Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "FallZone IO",
+    "slug": "fallzone-io",
+    "page_url": "https://ozgames.io/fallzone-io",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/fallzone-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/fallzone-io-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Multiplayer Games",
+      "IO Games"
+    ]
+  },
+  {
+    "title": "R.E.P.O.",
+    "slug": "repo",
+    "page_url": "https://ozgames.io/repo",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/R-E-P-O-.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/R-E-P-O--m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Multiplayer Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "GTA: Vice City",
+    "slug": "gta-vice-city",
+    "page_url": "https://ozgames.io/gta-vice-city",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/GTA-Vice-City.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/gta-vice-city-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Adventure Games",
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Undead Invasion",
+    "slug": "undead-invasion",
+    "page_url": "https://ozgames.io/undead-invasion",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Undead-Invasion.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Undead-Invasion-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Tiny Arena",
+    "slug": "tiny-arena",
+    "page_url": "https://ozgames.io/tiny-arena",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Tiny-Arena.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Tiny-Arena-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Action Games",
+      "Arcade Classics",
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Stickman Dragon Fight",
+    "slug": "stickman-dragon-fight",
+    "page_url": "https://ozgames.io/stickman-dragon-fight",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/StickmanDragonFight.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/stickman-dragon-fight-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games"
+    ]
+  },
+  {
+    "title": "Ragdoll Hit",
+    "slug": "ragdoll-hit",
+    "page_url": "https://ozgames.io/ragdoll-hit",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/ragdollhitstickman.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/ragdoll-hit-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Adventure Games",
+      "Multiplayer Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Stumble Guys",
+    "slug": "stumble-guys",
+    "page_url": "https://ozgames.io/stumble-guys",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/stumble-guys.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Stumble-Guys-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Adventure Games",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Five Nights At Diddy’s",
+    "slug": "five-nights-at-diddys",
+    "page_url": "https://ozgames.io/five-nights-at-diddys",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Five-Nights-At-Diddy---s.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Five-Nights-At-Diddys-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Simulation Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "City Brawl",
+    "slug": "city-brawl",
+    "page_url": "https://ozgames.io/city-brawl",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/City-Brawl-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/City-Brawl-1-m230x150.JPG"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Action Games",
+      "Arcade Classics"
+    ]
+  },
+  {
+    "title": "Drive Beyond Horizons",
+    "slug": "drive-beyond-horizons",
+    "page_url": "https://ozgames.io/drive-beyond-horizons",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/drivebeyondhorizons.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/drive-beyond-horizons-cover-m230x150.png"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Action Games",
+      "Racing & Driving Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Gunspin",
+    "slug": "gunspin",
+    "page_url": "https://ozgames.io/gunspin",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/gunspin.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/gunspin-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Arcade Classics"
+    ]
+  },
+  {
+    "title": "Bedwars",
+    "slug": "bedwars",
+    "page_url": "https://ozgames.io/bedwars",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Bedwars.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Bedwars-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Multiplayer Games",
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Clash Royale",
+    "slug": "clash-royale",
+    "page_url": "https://ozgames.io/clash-royale",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Clash-Royale.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Clash-Royale-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games"
+    ]
+  },
+  {
+    "title": "Bullet Force",
+    "slug": "bullet-force",
+    "page_url": "https://ozgames.io/bullet-force",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Bullet-Force.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Bullet-Force-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Police Drive",
+    "slug": "police-drive",
+    "page_url": "https://ozgames.io/police-drive",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Police-Drive.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Police-Drive-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Racing & Driving Games",
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Granny Horror",
+    "slug": "granny-horror",
+    "page_url": "https://ozgames.io/granny-horror",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/grannyhorror.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/granny-horror-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Action Games",
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Hole IO",
+    "slug": "hole-io",
+    "page_url": "https://ozgames.io/hole-io",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/hole-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Hole-IO-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Adventure Games",
+      "Arcade Classics",
+      "Casual & Fun Games",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Moto X3M",
+    "slug": "moto-x3m",
+    "page_url": "https://ozgames.io/moto-x3m",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Moto-X3M.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Moto-X3M-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Adventure Games",
+      "Racing & Driving Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Wave Rider",
+    "slug": "wave-rider",
+    "page_url": "https://ozgames.io/wave-rider",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Wave-Rider.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/wave-rider-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Adventure Games",
+      "Arcade Classics",
+      "Racing & Driving Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Traffic Jam 3D",
+    "slug": "traffic-jam-3d",
+    "page_url": "https://ozgames.io/traffic-jam-3d",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Traffic-Jam-3D.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Traffic-Jam-3D-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Adventure Games",
+      "Racing & Driving Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Crossy Road",
+    "slug": "crossy-road",
+    "page_url": "https://ozgames.io/crossy-road",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/crossy-road-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Crossy-Road-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Adventure Games",
+      "Arcade Classics",
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "Steal A Brainrot",
+    "slug": "steal-a-brainrot",
+    "page_url": "https://ozgames.io/steal-a-brainrot",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Steal-A-Brainrot.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Steal-A-Brainrot-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Adventure Games",
+      "Casual & Fun Games",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Bloxd.io",
+    "slug": "bloxdio",
+    "page_url": "https://ozgames.io/bloxdio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/bloxd-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Bloxd-io-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Adventure Games",
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Rob Brainrot 2",
+    "slug": "rob-brainrot-2-0",
+    "page_url": "https://ozgames.io/rob-brainrot-2-0",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Rob-Brainrot-2.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Rob-Brainrot-2-m230x150.JPG"
+    },
+    "labels": [
+      "Updated"
+    ],
+    "categories": [
+      "Adventure Games",
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "MineFun.io",
+    "slug": "minefunio",
+    "page_url": "https://ozgames.io/minefunio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/MineFun-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/MineFun-io-m230x150.JPG"
+    },
+    "labels": [
+      "Updated"
+    ],
+    "categories": [
+      "Adventure Games",
+      "Casual & Fun Games",
+      "Multiplayer Games",
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Slow Roads",
+    "slug": "slow-roads",
+    "page_url": "https://ozgames.io/slow-roads",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Slow-Roads.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Slow-Roads-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Adventure Games",
+      "Racing & Driving Games",
+      "IO Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Granny",
+    "slug": "granny",
+    "page_url": "https://ozgames.io/granny",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/granny.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/granny-m230x150.jpg"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Adventure Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Paper Minecraft",
+    "slug": "paper-minecraft",
+    "page_url": "https://ozgames.io/paper-minecraft",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Paper-Minecraft.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Paper-Minecraft-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Adventure Games",
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "Minecraft",
+    "slug": "minecraft",
+    "page_url": "https://ozgames.io/minecraft",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/minecraft.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Minecraft-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Adventure Games",
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "PolyTrack",
+    "slug": "polytrack",
+    "page_url": "https://ozgames.io/polytrack",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/polytrack.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/polytrack-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Adventure Games",
+      "Racing & Driving Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Retro Rush",
+    "slug": "retro-rush",
+    "page_url": "https://ozgames.io/retro-rush",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/retro-rush.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/retro-rush-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "Adventure Games",
+      "Arcade Classics",
+      "Racing & Driving Games"
+    ]
+  },
+  {
+    "title": "Wurst Dash",
+    "slug": "wurst-dash",
+    "page_url": "https://ozgames.io/wurst-dash",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Wurst-Dash.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/wurst-dash-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Arcade Classics",
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "Retro Bowl 26",
+    "slug": "retro-bowl-26",
+    "page_url": "https://ozgames.io/retro-bowl-26",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/retrobowl26.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/retrobowl262-m230x150.png"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Arcade Classics",
+      "Simulation Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Soccer Skills World Cup",
+    "slug": "soccer-skills-world-cup",
+    "page_url": "https://ozgames.io/soccer-skills-world-cup",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Soccer-Skills-World-Cup.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Soccer-Skills-World-Cup-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Arcade Classics",
+      "Multiplayer Games",
+      "Sports Games",
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Slope 2",
+    "slug": "slope-2",
+    "page_url": "https://ozgames.io/slope-2",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/slope2.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/slope-2-cover-m230x150.png"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Arcade Classics",
+      "Platformer Games",
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Super Liquid Soccer",
+    "slug": "super-liquid-soccer",
+    "page_url": "https://ozgames.io/super-liquid-soccer",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Super-Liquid-Soccer-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Super-Liquid-Soccer-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Arcade Classics",
+      "Sports Games",
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Geometry Lite",
+    "slug": "geo-lite",
+    "page_url": "https://ozgames.io/geo-lite",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/geometrylite.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/geometry-lite-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Arcade Classics",
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Tunnel Rush",
+    "slug": "tunnel-rush",
+    "page_url": "https://ozgames.io/tunnel-rush",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/tunnelrush.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/tunnel-rush-m230x150.png"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Arcade Classics",
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "Orbit Beats",
+    "slug": "orbit-beats",
+    "page_url": "https://ozgames.io/orbit-beats",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Orbit-Beats.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Orbit-Beats-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "Arcade Classics",
+      "Platformer Games",
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Golf Hit",
+    "slug": "golf-hit",
+    "page_url": "https://ozgames.io/golf-hit",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/golfhit.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/golf-hit-cover-m230x150.png"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Arcade Classics",
+      "Casual & Fun Games",
+      "Simulation Games",
+      "Sports Games",
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Backyard Baseball",
+    "slug": "backyard-baseball",
+    "page_url": "https://ozgames.io/backyard-baseball",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Backyard-Baseball.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Backyard-Baseball-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Arcade Classics",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Sky Dart",
+    "slug": "sky-dart",
+    "page_url": "https://ozgames.io/sky-dart",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/sky-dart.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Sky-Dart-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Arcade Classics",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Escape Road",
+    "slug": "escape-road",
+    "page_url": "https://ozgames.io/escape-road",
+    "video": {
+      "url": "https://ozgames.io"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/escape-road-cover-m230x150.png"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Arcade Classics"
+    ]
+  },
+  {
+    "title": "Geometry Dash SubZero",
+    "slug": "geo-dash-subzero",
+    "page_url": "https://ozgames.io/geo-dash-subzero",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Geometry-Dash-SubZero.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Geometry-Dash-SubZero-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Arcade Classics",
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Speed Slope",
+    "slug": "speed-slope",
+    "page_url": "https://ozgames.io/speed-slope",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Speed-Slope.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Speed-Slope-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Arcade Classics",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Sprunki",
+    "slug": "sprunki",
+    "page_url": "https://ozgames.io/sprunki",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/sprunki-ozgames.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/sprunki-game-ozgames-m230x150.jpg"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Casual & Fun Games",
+      "Platformer Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Monkey Mart",
+    "slug": "monkey-mart",
+    "page_url": "https://ozgames.io/monkey-mart",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/monkey-mart.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/monkey-mart-m230x150.png"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Casual & Fun Games",
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Wacky Steps",
+    "slug": "wacky-steps",
+    "page_url": "https://ozgames.io/wacky-steps",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Wacky-Steps.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Wacky-Steps-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Casual & Fun Games",
+      "Platformer Games",
+      "Sports Games",
+      "Endless Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Slither IO",
+    "slug": "slither-io",
+    "page_url": "https://ozgames.io/slither-io",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/slither-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/slither-io-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "Kick the Buddy",
+    "slug": "kick-the-buddy",
+    "page_url": "https://ozgames.io/kick-the-buddy",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Kick-the-Buddy.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Kick-the-Buddy-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Casual & Fun Games",
+      "Clicker Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Block Blast",
+    "slug": "block-blast",
+    "page_url": "https://ozgames.io/block-blast",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Block-Blast-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Block-Blast-1-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Casual & Fun Games",
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Toca Boca Everything Unlocked",
+    "slug": "toca-boca-everything-unlocked",
+    "page_url": "https://ozgames.io/toca-boca-everything-unlocked",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Toca-Boca-Everything-Unlocked.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Toca-Boca-Everything-Unlocked-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "Brush Jjaemu",
+    "slug": "brush-jjaemu",
+    "page_url": "https://ozgames.io/brush-jjaemu",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Brush-Jjaemu.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Brush-Jjaemu-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "Cookie Clicker",
+    "slug": "cookie-clicker",
+    "page_url": "https://ozgames.io/cookie-clicker",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/cookie-clicker.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Cookie-Clicker-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Casual & Fun Games",
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Poor Bunny",
+    "slug": "poor-bunny",
+    "page_url": "https://ozgames.io/poor-bunny",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/poor-punny.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Poor-Bunny-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Casual & Fun Games",
+      "Multiplayer Games",
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Geometry Dash Wave",
+    "slug": "geo-dash-wave",
+    "page_url": "https://ozgames.io/geo-dash-wave",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/geometry-dash-wave-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/geometry-dash-wave-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Casual & Fun Games"
+    ]
+  },
+  {
+    "title": "BLOODMONEY!",
+    "slug": "bloodmoney",
+    "page_url": "https://ozgames.io/bloodmoney",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/bloodmoney.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/bloodmoney-cover-m230x150.png"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Epstein Clicker",
+    "slug": "epstein-clicker",
+    "page_url": "https://ozgames.io/epstein-clicker",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Epstein-Clicker.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Epstein-Clicker-1-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Sprunki Clicker",
+    "slug": "sprunki-clicker",
+    "page_url": "https://ozgames.io/sprunki-clicker",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/sprunkiclicker.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/sprunki-clicker-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Duck Clicker",
+    "slug": "duck-clicker",
+    "page_url": "https://ozgames.io/duck-clicker",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/duck-clicker.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/duck-clicker-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "67 Clicker",
+    "slug": "67-clicker",
+    "page_url": "https://ozgames.io/67-clicker",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/67-clicker.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/67-clicker-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Astro Robot Clicker",
+    "slug": "astro-robot-clicker",
+    "page_url": "https://ozgames.io/astro-robot-clicker",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/astrorobotclicker.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/astro-robot-clicker-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Goo Goo Gaga Clicker",
+    "slug": "goo-goo-gaga-clicker",
+    "page_url": "https://ozgames.io/goo-goo-gaga-clicker",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Goo-Goo-Gaga-Clicker.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Goo-Goo-Gaga-Clicker-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Rocket Fortress",
+    "slug": "rocket-fortress",
+    "page_url": "https://ozgames.io/rocket-fortress",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Rocket-Fortress.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Rocket-Fortress-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Chicken Jockey Clicker",
+    "slug": "chicken-jockey-clicker",
+    "page_url": "https://ozgames.io/chicken-jockey-clicker",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/chickenjockeyclicker.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/chicken-jockey-clicker-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Chill Guy Clicker 3D",
+    "slug": "chill-guy-clicker-3d",
+    "page_url": "https://ozgames.io/chill-guy-clicker-3d",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/chillguyclicker3d.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/chill-guy-clicker-3d-cover-m230x150.png"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Tralalero Tralala Clicker",
+    "slug": "tralalero-tralala-clicker",
+    "page_url": "https://ozgames.io/tralalero-tralala-clicker",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Tralalero-Tralala-Clicker.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Tralalero-Tralala-Clicker-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Tap Rich Idle",
+    "slug": "tap-rich-idle",
+    "page_url": "https://ozgames.io/tap-rich-idle",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Tap-Rich-Idle.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Tap-Rich-Idle-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Space Plan",
+    "slug": "space-plan",
+    "page_url": "https://ozgames.io/space-plan",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Space-Plan.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/space-plan-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Clicker Games"
+    ]
+  },
+  {
+    "title": "Basketball Bros",
+    "slug": "basketball-bros",
+    "page_url": "https://ozgames.io/basketball-bros",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/basketball-bros.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Basketball-Bros-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Multiplayer Games",
+      "Sports Games",
+      "IO Games",
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Aquapark.io",
+    "slug": "aquaparkio",
+    "page_url": "https://ozgames.io/aquaparkio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Aquapark.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Aquapark-io-m230x150.JPG"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Multiplayer Games",
+      "Racing & Driving Games",
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Hole Arena",
+    "slug": "hole-arena",
+    "page_url": "https://ozgames.io/hole-arena",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Hole-Arena.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/hole-arena-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Multiplayer Games",
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Stumble Race",
+    "slug": "stumble-race",
+    "page_url": "https://ozgames.io/stumble-race",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Stumble-Race.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/stumble-race-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Multiplayer Games",
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Basketball Stars 2026",
+    "slug": "basketball-stars-2026",
+    "page_url": "https://ozgames.io/basketball-stars-2026",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Basketball-Stars-2026.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Basketball-Stars-2026-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Multiplayer Games",
+      "Sports Games",
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Rumble Rush",
+    "slug": "rumble-rush",
+    "page_url": "https://ozgames.io/rumble-rush",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/rumble-rush.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Rumble-Rush-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Multiplayer Games"
+    ]
+  },
+  {
+    "title": "Ragdoll Playground",
+    "slug": "ragdoll-playground",
+    "page_url": "https://ozgames.io/ragdoll-playground",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/RagdollPlayground.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/ragdoll-playground-cover-m230x150.png"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Platformer Games",
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Trees Hate You",
+    "slug": "trees-hate-you",
+    "page_url": "https://ozgames.io/trees-hate-you",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Trees-Hate-You.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Trees-Hate-You-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Platformer Games",
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Happy Wheels",
+    "slug": "happy-wheels",
+    "page_url": "https://ozgames.io/happy-wheels",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/happy-wheels.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/happy-wheels-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games",
+      "Racing & Driving Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Sprunked",
+    "slug": "sprunked",
+    "page_url": "https://ozgames.io/sprunked",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/sprunked.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Sprunked-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Level Devil",
+    "slug": "level-devil",
+    "page_url": "https://ozgames.io/level-devil",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Level-Devil.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Level-Devil-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Tag Game",
+    "slug": "tag-game",
+    "page_url": "https://ozgames.io/tag-game",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/tag-game.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Tag-Game-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Golf Orbit",
+    "slug": "golf-orbit",
+    "page_url": "https://ozgames.io/golf-orbit",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/golforbit.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/golf-orbit-cover-m230x150.png"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Platformer Games",
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Wobbly Pets",
+    "slug": "wobbly-pets",
+    "page_url": "https://ozgames.io/wobbly-pets",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Wobbly-Pets.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Wobbly-Pets-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Geometry Arrow",
+    "slug": "geo-arrow",
+    "page_url": "https://ozgames.io/geo-arrow",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Geometryarrow.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/geometry-arrow-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Dreadhead Parkour",
+    "slug": "dreadhead-parkour",
+    "page_url": "https://ozgames.io/dreadhead-parkour",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Dreadhead-Parkour.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Dreadhead-Parkour-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Long Leg Master",
+    "slug": "long-leg-master",
+    "page_url": "https://ozgames.io/long-leg-master",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/long-leg-master.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/long-leg-master-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Geometry Vibes",
+    "slug": "geo-vibes",
+    "page_url": "https://ozgames.io/geo-vibes",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/geometryvibes.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/geometry-vibes-cover-m230x150.png"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Drive Mad 2",
+    "slug": "drive-mad-2",
+    "page_url": "https://ozgames.io/drive-mad-2",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Drive-Mad-2.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Drive-Mad-2-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Blumgi Slime",
+    "slug": "blumgi-slime",
+    "page_url": "https://ozgames.io/blumgi-slime",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Blumgi-Slime.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Blumgi-Slime-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Jump Only",
+    "slug": "jump-only",
+    "page_url": "https://ozgames.io/jump-only",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Jump-Only.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Jump-Only-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Bullet Bros",
+    "slug": "bullet-bros",
+    "page_url": "https://ozgames.io/bullet-bros",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Bullet-Bros.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Bullet-Bros-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Color Surfer",
+    "slug": "color-surfer",
+    "page_url": "https://ozgames.io/color-surfer",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/color-surfer.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/color-surfer-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Pixel Path",
+    "slug": "pixel-path",
+    "page_url": "https://ozgames.io/pixel-path",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/pixelpath.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/pixel-path-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games",
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Cluster Rush",
+    "slug": "cluster-rush",
+    "page_url": "https://ozgames.io/cluster-rush",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/cluster-rush.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Cluster-Rush-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Color Rush",
+    "slug": "color-rush",
+    "page_url": "https://ozgames.io/color-rush",
+    "video": {
+      "url": "https://ozgames.io"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/color-rush-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Platformer Games"
+    ]
+  },
+  {
+    "title": "Anomalous Coffee Machine",
+    "slug": "anomalous-coffee-machine",
+    "page_url": "https://ozgames.io/anomalous-coffee-machine",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Anomalous-Coffee-Machine.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Anomalous-Coffee-Machine-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games",
+      "Simulation Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Thorn And Balloons",
+    "slug": "thorn-and-balloons",
+    "page_url": "https://ozgames.io/thorn-and-balloons",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/ThornAndBalloons.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/thorn-and-balloons-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Brainrot Craft",
+    "slug": "brainrot-craft",
+    "page_url": "https://ozgames.io/brainrot-craft",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/brainrot-craft-cover.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/brainrot-craft-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Thief Puzzle",
+    "slug": "thief-puzzle",
+    "page_url": "https://ozgames.io/thief-puzzle",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Thief-Puzzle.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Thief-Puzzle-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Uno Online",
+    "slug": "uno-online",
+    "page_url": "https://ozgames.io/uno-online",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/uno-online.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Uno-Online-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Tomb of the Mask",
+    "slug": "tomb-of-the-mask",
+    "page_url": "https://ozgames.io/tomb-of-the-mask",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Tomb-of-the-Mask.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Tomb-of-the-Mask-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Suika Game",
+    "slug": "suika-game",
+    "page_url": "https://ozgames.io/suika-game",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/suika-game.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/suika-game-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Searchle",
+    "slug": "searchle",
+    "page_url": "https://ozgames.io/searchle",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/searchle.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/searchle-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Color Block Jam",
+    "slug": "color-block-jam",
+    "page_url": "https://ozgames.io/color-block-jam",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Color-Block-Jam-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/color-block-jam-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Brain Lines",
+    "slug": "brain-lines",
+    "page_url": "https://ozgames.io/brain-lines",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/brain-lines-cover.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/brain-lines-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Wordle",
+    "slug": "wordle",
+    "page_url": "https://ozgames.io/wordle",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/wordle-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/wordle-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Pixel Flow",
+    "slug": "pixel-flow",
+    "page_url": "https://ozgames.io/pixel-flow",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Pixel-Flow.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Pixel-Flow-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Royaledle",
+    "slug": "royaledle",
+    "page_url": "https://ozgames.io/royaledle",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Royaledle.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Royaledle-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "World Guesser",
+    "slug": "world-guesser",
+    "page_url": "https://ozgames.io/world-guesser",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/World-Guesser.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/World-Guesser-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Tetrix Online",
+    "slug": "tetrix-online",
+    "page_url": "https://ozgames.io/tetrix-online",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Tetrix-Online.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/tetrix-online-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Football Wordle",
+    "slug": "football-wordle",
+    "page_url": "https://ozgames.io/football-wordle",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Football-Wordle.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Football-Wordle-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Contexto",
+    "slug": "contexto",
+    "page_url": "https://ozgames.io/contexto",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/contexto.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Contexto-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Tic Tac Toe",
+    "slug": "tic-tac-toe",
+    "page_url": "https://ozgames.io/tic-tac-toe",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Tic-Tac-Toe.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Tic-Tac-Toe-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Globle",
+    "slug": "globle",
+    "page_url": "https://ozgames.io/globle",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/globle.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Globle-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Travle",
+    "slug": "travle",
+    "page_url": "https://ozgames.io/travle",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/travle.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/travle-game-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Schoolboy Escape 2",
+    "slug": "schoolboy-escape-2",
+    "page_url": "https://ozgames.io/schoolboy-escape-2",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/schoolboy-escape-2.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Schoolboy-Escape-2-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Connections",
+    "slug": "connections",
+    "page_url": "https://ozgames.io/connections",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/connections.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/connections-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "2048",
+    "slug": "2048",
+    "page_url": "https://ozgames.io/2048",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/2048.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/2048-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Chiikawa Puzzle",
+    "slug": "chiikawa-puzzle",
+    "page_url": "https://ozgames.io/chiikawa-puzzle",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Chiikawa-puzzle-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Chiikawa-Puzzle-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Blocky Rush",
+    "slug": "blocky-rush",
+    "page_url": "https://ozgames.io/blocky-rush",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/blocky-rush-cover.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/blocky-rush-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Pips NYT",
+    "slug": "pips-nyt",
+    "page_url": "https://ozgames.io/pips-nyt",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/pipsnyt.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/pipsnytthumb-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Little Alchemy 2",
+    "slug": "little-alchemy-2",
+    "page_url": "https://ozgames.io/little-alchemy-2",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Little-Alchemy-2-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Little-Alchemy-2-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Puzzle & Brain Games"
+    ]
+  },
+  {
+    "title": "Rocket Goal",
+    "slug": "rocket-goal",
+    "page_url": "https://ozgames.io/rocket-goal",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Rocket-Goal.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Rocket-Goal-m230x150.JPG"
+    },
+    "labels": [
+      "Trending"
+    ],
+    "categories": [
+      "Racing & Driving Games",
+      "Sports Games",
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Drive Mad",
+    "slug": "drive-mad",
+    "page_url": "https://ozgames.io/drive-mad",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/drive-mad.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/drive-mad-1-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Racing & Driving Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Ice Drop: GTA 5",
+    "slug": "ice-drop-gta-5",
+    "page_url": "https://ozgames.io/ice-drop-gta-5",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Ice-Drop-GTA-5.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Ice-Drop-GTA-5-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Racing & Driving Games"
+    ]
+  },
+  {
+    "title": "Drift Rush",
+    "slug": "drift-rush",
+    "page_url": "https://ozgames.io/drift-rush",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Drift-Rush-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Drift-Rush-m230x150.JPG"
+    },
+    "labels": [
+      "Updated"
+    ],
+    "categories": [
+      "Racing & Driving Games",
+      "Simulation Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Acceleration City",
+    "slug": "acceleration-city",
+    "page_url": "https://ozgames.io/acceleration-city",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Acceleration-City.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Acceleration-City-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Racing & Driving Games",
+      "Sports Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Deadly Descent",
+    "slug": "deadly-descent",
+    "page_url": "https://ozgames.io/deadly-descent",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Deadly-Descent.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Deadly-Descent-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Racing & Driving Games",
+      "Simulation Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Drift Hunters",
+    "slug": "drift-hunters",
+    "page_url": "https://ozgames.io/drift-hunters",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Drift-hunters.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Drift-Hunters-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Racing & Driving Games",
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Arcade Glide",
+    "slug": "arcade-glide",
+    "page_url": "https://ozgames.io/arcade-glide",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Arcade-Glide.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/arcade-glide-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Racing & Driving Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Overtake X",
+    "slug": "overtake-x",
+    "page_url": "https://ozgames.io/overtake-x",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Overtake-X.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Overtake-X-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Racing & Driving Games",
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Escape Road Halloween",
+    "slug": "escape-road-halloween",
+    "page_url": "https://ozgames.io/escape-road-halloween",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Escape-Road-Halloween.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Escape-Road-Halloween-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Racing & Driving Games"
+    ]
+  },
+  {
+    "title": "Traffic Rally",
+    "slug": "traffic-rally",
+    "page_url": "https://ozgames.io/traffic-rally",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/trafficrally2.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/traffic-rally-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Racing & Driving Games"
+    ]
+  },
+  {
+    "title": "Chase Rush",
+    "slug": "chase-rush",
+    "page_url": "https://ozgames.io/chase-rush",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/chase-rush.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/chase-rush-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Racing & Driving Games"
+    ]
+  },
+  {
+    "title": "Temple Run",
+    "slug": "temple-run",
+    "page_url": "https://ozgames.io/temple-run",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/temple-run.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/temple-run-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Racing & Driving Games"
+    ]
+  },
+  {
+    "title": "Baldi's Basics",
+    "slug": "baldis-basics",
+    "page_url": "https://ozgames.io/baldis-basics",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Baldis-Basics.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Baldis-Basics-2-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Poppy Playtime Chapter 5",
+    "slug": "poppy-playtime-chapter-5",
+    "page_url": "https://ozgames.io/poppy-playtime-chapter-5",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Poppy-Playtime-CHAPTER-5-.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Poppy-Playtime-5-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Simulation Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Cat And Granny",
+    "slug": "cat-and-granny",
+    "page_url": "https://ozgames.io/cat-and-granny",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/bandicam2025-09-2308-21-06-704.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/cat-and-granny-cover-m230x150.png"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Dig out of Prison",
+    "slug": "dig-out-of-prison",
+    "page_url": "https://ozgames.io/dig-out-of-prison",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Dig-out-of-Prison.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Dig-out-of-Prison-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Red Face Horror",
+    "slug": "red-face-horror",
+    "page_url": "https://ozgames.io/red-face-horror",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Red-Face-Horror.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Red-Face-Horror-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Simulation Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Bitlife",
+    "slug": "bitlife-simulator",
+    "page_url": "https://ozgames.io/bitlife-simulator",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/BitLife.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/BitLife-m230x150.JPG"
+    },
+    "labels": [
+      "Hot"
+    ],
+    "categories": [
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Squid Game",
+    "slug": "squid-game",
+    "page_url": "https://ozgames.io/squid-game",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Squid-Game.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Squid-Game-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Horror Nun",
+    "slug": "horror-nun",
+    "page_url": "https://ozgames.io/horror-nun",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Horror-Nun.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/horror-nun-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Simulation Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Fish Quest",
+    "slug": "fish-quest",
+    "page_url": "https://ozgames.io/fish-quest",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Fish-Quest-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/fish-quest-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Simulation Games"
+    ]
+  },
+  {
+    "title": "Melon Sandbox",
+    "slug": "melon-sandbox",
+    "page_url": "https://ozgames.io/melon-sandbox",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Melon-Sandbox.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Melon-Sandbox-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Simulation Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "FNAF 3",
+    "slug": "fnaf-3",
+    "page_url": "https://ozgames.io/fnaf-3",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Five-Nights-at-Freddys-3.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Five-Nights-at-Freddys-3-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Simulation Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Rainbow Friends Survival",
+    "slug": "rainbow-friends-survival",
+    "page_url": "https://ozgames.io/rainbow-friends-survival",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Rainbow-Friends-Survival.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Rainbow-Friends-Survival-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Simulation Games",
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Indoor Soccer",
+    "slug": "indoor-soccer",
+    "page_url": "https://ozgames.io/indoor-soccer",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/INDOOR-SOCCER.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Indoor-Soccer-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Penalty Challenge Multiplayer",
+    "slug": "penalty-challenge-multiplayer",
+    "page_url": "https://ozgames.io/penalty-challenge-multiplayer",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Penalty-Challenge-Multiplayer.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Penalty-Challenge-Multiplayer-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "Retro Bowl 25",
+    "slug": "retro-bowl-25",
+    "page_url": "https://ozgames.io/retro-bowl-25",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/retrobowl26.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/retro-bowl-25-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "Sports Games"
+    ]
+  },
+  {
+    "title": "A Small World Cup 2",
+    "slug": "a-small-world-cup-2",
+    "page_url": "https://ozgames.io/a-small-world-cup-2",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/A-Small-World-Cup-2.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/A-Small-World-Cup-2-m230x150.JPG"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Sports Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Minigiants Io",
+    "slug": "minigiants-io",
+    "page_url": "https://ozgames.io/minigiants-io",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/minigiants.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/minigiants-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Gartic Phone",
+    "slug": "gartic-phone",
+    "page_url": "https://ozgames.io/gartic-phone",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/gartic-phone.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/gartic-phone-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Arrow Arena",
+    "slug": "arrow-arena",
+    "page_url": "https://ozgames.io/arrow-arena",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Arrow-Arena.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/arrow-arena-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "FoodStars.io",
+    "slug": "foodstarsio",
+    "page_url": "https://ozgames.io/foodstarsio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/FoodStars-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/FoodStars-io-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Karate Bros",
+    "slug": "karate-bros",
+    "page_url": "https://ozgames.io/karate-bros",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/KARATE-BROS.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Karate-Bros-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Math Bros",
+    "slug": "math-bros",
+    "page_url": "https://ozgames.io/math-bros",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Math-Bros.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Math-Bros-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "StealNow IO",
+    "slug": "stealnow-io",
+    "page_url": "https://ozgames.io/stealnow-io",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/StealNow-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/StealNow-IO-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Redcoats.io",
+    "slug": "redcoatsio",
+    "page_url": "https://ozgames.io/redcoatsio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Redcoats-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Redcoats-io-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Overtide.io",
+    "slug": "overtideio",
+    "page_url": "https://ozgames.io/overtideio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Overtide-io-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Overtide-io-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Make It Meme",
+    "slug": "make-it-meme",
+    "page_url": "https://ozgames.io/make-it-meme",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Make-It-Meme.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Make-It-Meme-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Snowball.io",
+    "slug": "snowballio",
+    "page_url": "https://ozgames.io/snowballio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Snowball-io-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Snowball-io-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "YoHoHo.io",
+    "slug": "yohohoio",
+    "page_url": "https://ozgames.io/yohohoio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/YoHoHo-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/YoHoHo-io-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Your AI Slop Bores Me",
+    "slug": "your-ai-slop-bores-me",
+    "page_url": "https://ozgames.io/your-ai-slop-bores-me",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/your-ai-slop-bores-me-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Your-AI-Slop-Bores-Me-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "OpenFront IO",
+    "slug": "openfront-io",
+    "page_url": "https://ozgames.io/openfront-io",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/OpenFront-IO-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/OpenFront-IO-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "FrontWars IO",
+    "slug": "frontwars-io",
+    "page_url": "https://ozgames.io/frontwars-io",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/FrontWars-IO.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/FrontWars-IO-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "EvoWorld.io",
+    "slug": "evoworldio",
+    "page_url": "https://ozgames.io/evoworldio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/EvoWorld-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/EvoWorld-io-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Kour IO",
+    "slug": "kour-io",
+    "page_url": "https://ozgames.io/kour-io",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Kour-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Kour-IO-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Kart Bros",
+    "slug": "kart-bros",
+    "page_url": "https://ozgames.io/kart-bros",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Kart-Bros.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Kart-Bros-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Poxel IO",
+    "slug": "poxel-io",
+    "page_url": "https://ozgames.io/poxel-io",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Poxel-IO.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Poxel-IO-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Territorial.io",
+    "slug": "territorialio",
+    "page_url": "https://ozgames.io/territorialio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Territorial-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Territorial-io-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Skribbl IO",
+    "slug": "skribbl-io",
+    "page_url": "https://ozgames.io/skribbl-io",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/skribbl.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Skribbl-io-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Deadshot.io",
+    "slug": "deadshotio",
+    "page_url": "https://ozgames.io/deadshotio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Deadshot-io.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Deadshot-io-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Mope.io",
+    "slug": "mopeio",
+    "page_url": "https://ozgames.io/mopeio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Mope-IO.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Mope-IO-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Stabfish.io",
+    "slug": "stabfishio",
+    "page_url": "https://ozgames.io/stabfishio",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Stabfish.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Stabfish-io-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "IO Games"
+    ]
+  },
+  {
+    "title": "Five Nights at Frickbear's 3",
+    "slug": "five-nights-at-frickbears-3",
+    "page_url": "https://ozgames.io/five-nights-at-frickbears-3",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Five-Nights-at-Frickbears-3.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Five-Nights-at-Frickbears-3-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "FNF Nocturnal Protocol Mod",
+    "slug": "fnf-nocturnal-protocol-mod",
+    "page_url": "https://ozgames.io/fnf-nocturnal-protocol-mod",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/FNF-Nocturnal-Protocol-Mod.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/FNF-Nocturnal-Protocol-mod-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Granny 3",
+    "slug": "granny-3",
+    "page_url": "https://ozgames.io/granny-3",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Granny-3.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Granny-3-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "FNAF: Help Wanted",
+    "slug": "fnaf-help-wanted",
+    "page_url": "https://ozgames.io/fnaf-help-wanted",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/FNAF-Help-Wanted.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/FNAF-Help-Wanted-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Granny GTA Vegas",
+    "slug": "granny-gta-vegas",
+    "page_url": "https://ozgames.io/granny-gta-vegas",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Granny-GTA-Vegas.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Granny-GTA-Vegas-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Kingdom Of Marionettes",
+    "slug": "kingdom-of-marionettes",
+    "page_url": "https://ozgames.io/kingdom-of-marionettes",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Kingdom-Of-Marionettes.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Kingdom-Of-Marionettes-2-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Haunted School",
+    "slug": "haunted-school",
+    "page_url": "https://ozgames.io/haunted-school",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/haunted-school.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Haunted-School-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Five Nights at Winston's",
+    "slug": "five-nights-at-winstons",
+    "page_url": "https://ozgames.io/five-nights-at-winstons",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Five-Nights-at-Winstons.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Five-Nights-at-Winstons-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Cheat Or Repeat",
+    "slug": "cheat-or-repeat",
+    "page_url": "https://ozgames.io/cheat-or-repeat",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Cheat-or-repeat.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/cheat-or-repeat-1-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Lab Havoc",
+    "slug": "lab-havoc",
+    "page_url": "https://ozgames.io/lab-havoc",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Lab-havoc.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/lab-havoc-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games",
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "FNaF Shooter",
+    "slug": "fnaf-shooter",
+    "page_url": "https://ozgames.io/fnaf-shooter",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/FNaF-Shooter.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/FNaF-Shooter-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Idols Of Ash",
+    "slug": "idols-of-ash",
+    "page_url": "https://ozgames.io/idols-of-ash",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Idols-Of-Ash.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Idols-Of-Ash-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Cornfield",
+    "slug": "cornfield",
+    "page_url": "https://ozgames.io/cornfield",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Cornfield.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Cornfield-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Backrooms",
+    "slug": "backrooms",
+    "page_url": "https://ozgames.io/backrooms",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Backrooms.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/backrooms-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Five Nights at Freddy’s 4 (FNAF 4)",
+    "slug": "five-nights-at-freddys-4",
+    "page_url": "https://ozgames.io/five-nights-at-freddys-4",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Five-Nights-at-Freddy---s-4.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Five-Nights-at-Freddy---s-4-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "99 Nights in the Forest",
+    "slug": "99-nights-in-the-forest",
+    "page_url": "https://ozgames.io/99-nights-in-the-forest",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/99-nights-in-the-forest.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/99-Nights-in-the-Forest-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Poppy Playtime",
+    "slug": "poppy-playtime",
+    "page_url": "https://ozgames.io/poppy-playtime",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Poppy-Playtime.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Poppy-Playtime-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Buckshot Roulette",
+    "slug": "buckshot-roulette",
+    "page_url": "https://ozgames.io/buckshot-roulette",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Buckshot-Roulette.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Buckshot-Roulette-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Horror Games"
+    ]
+  },
+  {
+    "title": "Rocket Soccer Derby",
+    "slug": "rocket-soccer-derby",
+    "page_url": "https://ozgames.io/rocket-soccer-derby",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Rocket-Soccer-Derby.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Rocket-Soccer-Derby-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Dunk Clash",
+    "slug": "dunk-clash",
+    "page_url": "https://ozgames.io/dunk-clash",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Dunk-Clash.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Dunk-Clash-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Arcade Tennis",
+    "slug": "arcade-tennis",
+    "page_url": "https://ozgames.io/arcade-tennis",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Arcade-Tennis.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Arcade-Tennis-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Arcade Volley",
+    "slug": "arcade-volley",
+    "page_url": "https://ozgames.io/arcade-volley",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Arcade-Volley.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Arcade-Volley-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Balloon Pop",
+    "slug": "balloon-pop",
+    "page_url": "https://ozgames.io/balloon-pop",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Balloon-Pop.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Balloon-Pop-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Slide Down",
+    "slug": "slide-down",
+    "page_url": "https://ozgames.io/slide-down",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Slide-Down.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Slide-Down-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Bat Smash",
+    "slug": "bat-smash",
+    "page_url": "https://ozgames.io/bat-smash",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/bat-smash.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Bat-Smash-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Orbit Kick",
+    "slug": "orbit-kick",
+    "page_url": "https://ozgames.io/orbit-kick",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/orbit-kick.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/orbit-kick-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Flying Ball",
+    "slug": "flying-ball",
+    "page_url": "https://ozgames.io/flying-ball",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/flying-ball.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/flying-ball-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Baseball 9",
+    "slug": "baseball-9",
+    "page_url": "https://ozgames.io/baseball-9",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Baseball-9.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Baseball-9-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Penalty Shooters",
+    "slug": "penalty-shooters",
+    "page_url": "https://ozgames.io/penalty-shooters",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Penalty-Shooters-2.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Penalty-Shooters-2-2-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Bubble Shooter",
+    "slug": "bubble-shooter",
+    "page_url": "https://ozgames.io/bubble-shooter",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Bubble-Shooter.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Bubble-Shooter-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Xlope 3",
+    "slug": "xlope-3",
+    "page_url": "https://ozgames.io/xlope-3",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Xlope-3.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/xlope-3-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Xlope 2",
+    "slug": "xlope-2",
+    "page_url": "https://ozgames.io/xlope-2",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/XLOPE-2-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/xlope-2-2-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Slope 3",
+    "slug": "slope-3",
+    "page_url": "https://ozgames.io/slope-3",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/slope-3.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/slope-3-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Red Ball",
+    "slug": "red-ball",
+    "page_url": "https://ozgames.io/red-ball",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/red-ball.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/red-ball-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Basketball Legends",
+    "slug": "basketball-legends",
+    "page_url": "https://ozgames.io/basketball-legends",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Basketball-Legends.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Basketball-Legends-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "8 Ball Pool",
+    "slug": "8-ball-pool",
+    "page_url": "https://ozgames.io/8-ball-pool",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/8-ball-pool.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/8-Ball-Pool-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Curve Rush",
+    "slug": "curve-rush",
+    "page_url": "https://ozgames.io/curve-rush",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/curverush.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/curve-rush-cover-m230x150.png"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Snow Road 3D",
+    "slug": "snow-road-3d",
+    "page_url": "https://ozgames.io/snow-road-3d",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/snowroad3d.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/snow-road-3d-m230x150.jpg"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Tap Road",
+    "slug": "tap-road",
+    "page_url": "https://ozgames.io/tap-road",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Tap-Road.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/tap-road-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Ball Games"
+    ]
+  },
+  {
+    "title": "Retro Highway",
+    "slug": "retro-highway",
+    "page_url": "https://ozgames.io/retro-highway",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Retro-Highway.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Retro-highway-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Highway Traffic",
+    "slug": "highway-traffic",
+    "page_url": "https://ozgames.io/highway-traffic",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Highway-Traffic.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Highway-Traffic-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Rotate Rush",
+    "slug": "rotate-rush",
+    "page_url": "https://ozgames.io/rotate-rush",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Rotate-Rush.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Rotate-Rush-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Drift Frenzy",
+    "slug": "drift-frenzy",
+    "page_url": "https://ozgames.io/drift-frenzy",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Drift-Frenzy.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Drift-Frenzy-2-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Farting Flight",
+    "slug": "farting-flight",
+    "page_url": "https://ozgames.io/farting-flight",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Farting-Flight.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Farting-Flight-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Track Dash",
+    "slug": "track-dash",
+    "page_url": "https://ozgames.io/track-dash",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/track-dash.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/track-dash-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Office Fury",
+    "slug": "office-fury",
+    "page_url": "https://ozgames.io/office-fury",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Office-Fury.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Office-Fury-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Pinball Master",
+    "slug": "pinball-master",
+    "page_url": "https://ozgames.io/pinball-master",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Pinball-Master.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Pinball-Master-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Retro Blaster",
+    "slug": "retro-blaster",
+    "page_url": "https://ozgames.io/retro-blaster",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Retro-Blaster.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Retro-Blaster-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Rob A Car",
+    "slug": "rob-a-car",
+    "page_url": "https://ozgames.io/rob-a-car",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Rob-A-Car.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/rob_a_car-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Snake",
+    "slug": "snake",
+    "page_url": "https://ozgames.io/snake",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/snake.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/snake-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Block Breaker",
+    "slug": "block-breaker",
+    "page_url": "https://ozgames.io/block-breaker",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Block-Breaker-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Block-Breaker-1-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Slope Rider 3D",
+    "slug": "slope-rider-3d",
+    "page_url": "https://ozgames.io/slope-rider-3d",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Slope-Rider-3D.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/slope-rider-3D-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "Plants vs Brainrots Online",
+    "slug": "plants-vs-brainrots-online",
+    "page_url": "https://ozgames.io/plants-vs-brainrots-online",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Plants-vs-Brainrots-Online.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Plants-vs-Brainrots-Online-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "Endless Games"
+    ]
+  },
+  {
+    "title": "A Small World Cup",
+    "slug": "a-small-world-cup",
+    "page_url": "https://ozgames.io/a-small-world-cup",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/A-Small-World-Cup.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/A-Small-World-Cup-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Bouncemasters",
+    "slug": "bouncemasters",
+    "page_url": "https://ozgames.io/bouncemasters",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Bouncemasters.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Bouncemasters-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Touchdowners",
+    "slug": "touchdowners",
+    "page_url": "https://ozgames.io/touchdowners",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Touchdowners.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Touchdowners-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Archers Random",
+    "slug": "archers-random",
+    "page_url": "https://ozgames.io/archers-random",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/ARCHERS-RANDOM.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Archers-Random-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Tube Fight",
+    "slug": "tube-fight",
+    "page_url": "https://ozgames.io/tube-fight",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Tube-Fight.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Tube-Fight-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Bow Battle",
+    "slug": "bow-battle",
+    "page_url": "https://ozgames.io/bow-battle",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Bow-Battle.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Bow-Battle-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "People Playground",
+    "slug": "people-playground",
+    "page_url": "https://ozgames.io/people-playground",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/People-Playground.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/People-Playground-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Ragdoll Launcher",
+    "slug": "ragdoll-launcher",
+    "page_url": "https://ozgames.io/ragdoll-launcher",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Ragdoll-Launcher.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Ragdoll-Launcher-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Flip Rush",
+    "slug": "flip-rush",
+    "page_url": "https://ozgames.io/flip-rush",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Flip-Rush.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Flip-Rush-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Ragdoll Drop",
+    "slug": "ragdoll-drop",
+    "page_url": "https://ozgames.io/ragdoll-drop",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/ragdoll-drop.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Ragdoll-Drop-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Short Life",
+    "slug": "short-life",
+    "page_url": "https://ozgames.io/short-life",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/short-life.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Short-Life-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Ragdoll Arena",
+    "slug": "ragdoll-arena",
+    "page_url": "https://ozgames.io/ragdoll-arena",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/ragdoll-arena.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/ragdoll-arena-m230x150.jpg"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Climb It Up",
+    "slug": "climb-it-up",
+    "page_url": "https://ozgames.io/climb-it-up",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Climb-It-Up.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/climb-it-up-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Getaway Shootout",
+    "slug": "getaway-shootout",
+    "page_url": "https://ozgames.io/getaway-shootout",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/GETAWAY-SHOOTOUT.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Getaway-Shootout-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "OvO",
+    "slug": "ovo",
+    "page_url": "https://ozgames.io/ovo",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/OvO.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/OvO-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Melon Playground",
+    "slug": "melon-playground",
+    "page_url": "https://ozgames.io/melon-playground",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/melon-playground.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/melon-playground-m230x150.JPG"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Mr Flip",
+    "slug": "mr-flip",
+    "page_url": "https://ozgames.io/mr-flip",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/mr-flip-cover.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/mr-flip-cover-m230x150.png"
+    },
+    "labels": [],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  },
+  {
+    "title": "Stickman War",
+    "slug": "stickman-war",
+    "page_url": "https://ozgames.io/stickman-war",
+    "video": {
+      "url": "https://ozgames.io/data/file/video/Stickman-War-1.mp4"
+    },
+    "thumbnail": {
+      "url": "https://ozgames.io/cache/data/image/game/Stickman-War-2-m230x150.JPG"
+    },
+    "labels": [
+      "New"
+    ],
+    "categories": [
+      "Ragdoll Games"
+    ]
+  }
+]
