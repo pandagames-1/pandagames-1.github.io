@@ -5,26 +5,26 @@
     { key: "New", icon: '<i data-lucide="sparkles"></i>' },
     { key: "Hot", icon: '<i data-lucide="siren"></i>' },
 
-    { key: "IO ", icon: '<i data-lucide="ghost"></i>' },
-    { key: "Action ", icon: '<i data-lucide="swords"></i>' },
-    { key: "Adventure ", icon: '<i data-lucide="map"></i>' },
-    { key: "Sports ", icon: '<i data-lucide="medal"></i>' },
+    { key: "IO Games", icon: '<i data-lucide="ghost"></i>' },
+    { key: "Action Games", icon: '<i data-lucide="swords"></i>' },
+    { key: "Adventure Games", icon: '<i data-lucide="map"></i>' },
+    { key: "Sports Games", icon: '<i data-lucide="medal"></i>' },
     { key: "Arcade Classics", icon: '<i data-lucide="gamepad-2"></i>' },
-    { key: "Casual & Fun ", icon: '<i data-lucide="smile"></i>' },
-    { key: "Clicker ", icon: '<i data-lucide="mouse-pointer-click"></i>' },
-    { key: "Multiplayer ", icon: '<i data-lucide="users"></i>' },
-    { key: "Platformer ", icon: '<i data-lucide="mountain"></i>' },
-    { key: "Puzzle & Brain ", icon: '<i data-lucide="puzzle"></i>' },
-    { key: "Racing & Driving ", icon: '<i data-lucide="car"></i>' },
-    { key: "Simulation ", icon: '<i data-lucide="cpu"></i>' },
+    { key: "Casual & Fun Games", icon: '<i data-lucide="smile"></i>' },
+    { key: "Clicker Games", icon: '<i data-lucide="mouse-pointer-click"></i>' },
+    { key: "Multiplayer Games", icon: '<i data-lucide="users"></i>' },
+    { key: "Platformer Games", icon: '<i data-lucide="mountain"></i>' },
+    { key: "Puzzle & Brain Games", icon: '<i data-lucide="puzzle"></i>' },
+    { key: "Racing & Driving Games", icon: '<i data-lucide="car"></i>' },
+    { key: "Simulation Games", icon: '<i data-lucide="cpu"></i>' },
 
-    { key: "Horror ", icon: '<i data-lucide="skull"></i>' },
-    { key: "Ball ", icon: '<i data-lucide="circle"></i>' },
-    { key: "Endless ", icon: '<i data-lucide="infinity"></i>' },
-    { key: "Ragdoll ", icon: '<i data-lucide="person-standing"></i>' },
+    { key: "Horror Games", icon: '<i data-lucide="skull"></i>' },
+    { key: "Ball Games", icon: '<i data-lucide="circle"></i>' },
+    { key: "Endless Games", icon: '<i data-lucide="infinity"></i>' },
+    { key: "Ragdoll Games", icon: '<i data-lucide="person-standing"></i>' },
 
-    { key: "Hot ", icon: '<i data-lucide="crown"></i>' },
-    { key: "New ", icon: '<i data-lucide="sparkles"></i>' }
+    { key: "Hot Games", icon: '<i data-lucide="crown"></i>' },
+    { key: "New Games", icon: '<i data-lucide="sparkles"></i>' }
   ];
 
   const els = {
