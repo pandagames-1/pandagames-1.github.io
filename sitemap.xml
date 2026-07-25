@@ -25,22 +25,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/IO</loc>
+    <loc>https://pandagames-1.github.io/IO%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Action</loc>
+    <loc>https://pandagames-1.github.io/Action%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Adventure</loc>
+    <loc>https://pandagames-1.github.io/Adventure%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Sports</loc>
+    <loc>https://pandagames-1.github.io/Sports%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -50,59 +50,69 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Casual%20&amp;%20Fun</loc>
+    <loc>https://pandagames-1.github.io/Casual%20&amp;%20Fun%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Clicker</loc>
+    <loc>https://pandagames-1.github.io/Clicker%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Multiplayer</loc>
+    <loc>https://pandagames-1.github.io/Multiplayer%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Platformer</loc>
+    <loc>https://pandagames-1.github.io/Platformer%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Puzzle%20&amp;%20Brain</loc>
+    <loc>https://pandagames-1.github.io/Puzzle%20&amp;%20Brain%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Racing%20&amp;%20Driving</loc>
+    <loc>https://pandagames-1.github.io/Racing%20&amp;%20Driving%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Simulation</loc>
+    <loc>https://pandagames-1.github.io/Simulation%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Horror</loc>
+    <loc>https://pandagames-1.github.io/Horror%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Ball</loc>
+    <loc>https://pandagames-1.github.io/Ball%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Endless</loc>
+    <loc>https://pandagames-1.github.io/Endless%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pandagames-1.github.io/Ragdoll</loc>
+    <loc>https://pandagames-1.github.io/Ragdoll%20Games</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pandagames-1.github.io/Hot%20Games</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pandagames-1.github.io/New%20Games</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
   </url>
 
 </urlset>
