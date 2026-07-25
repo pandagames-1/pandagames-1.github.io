@@ -1,4 +1,3 @@
-// Panda Games — vanilla JS app
 (() => {
   const CATEGORIES = [
     { key: "Trending", icon: '<i data-lucide="flame"></i>' },
@@ -83,7 +82,7 @@
   // ---------- SIDEBAR ----------
   function renderSidebar() {
     els.sideNav.innerHTML = CATEGORIES.map(c => `
-      <a class="side-item" href="?cat=${encodeURIComponent(c.key)}" data-cat="${c.key}" title="${c.key}">
+      <a class="side-item" href="/${encodeURIComponent(c.key.trim())}" data-cat="${c.key}" title="${c.key}">
         ${c.icon}<span>${c.key === 'IO' ? 'IO Games' : c.key + (['New', 'Hot', 'Trending'].includes(c.key) ? ' Games' : '')}</span>
       </a>
     `).join('');
@@ -97,25 +96,39 @@
     lucide.createIcons();
   }
 
-  // ---------- ROUTING ----------
+  // ---------- ROUTING (Path-based) ----------
   function setRoute({ cat, game }, replace = false) {
-    const url = new URL(location.href);
-    url.searchParams.delete('cat');
-    url.searchParams.delete('game');
-    if (cat) url.searchParams.set('cat', cat);
-    if (game) url.searchParams.set('game', game);
-    history[replace ? 'replaceState' : 'pushState']({}, '', url);
+    let path = '/';
+    if (game) {
+      path = `/game/${encodeURIComponent(game)}`;
+    } else if (cat) {
+      path = `/${encodeURIComponent(cat)}`;
+    }
+    history[replace ? 'replaceState' : 'pushState']({}, '', path);
     handleRoute();
   }
 
   function handleRoute() {
-    const params = new URLSearchParams(location.search);
-    const game = params.get('game');
-    const cat = params.get('cat');
-    if (game) {
-      showGame(game);
+    const segments = location.pathname.split('/').filter(Boolean);
+    // e.g. ["game", "subway-surfers"] or ["IO"]
+    
+    currentCat = null;
+    let gameSlug = null;
+
+    if(segments.length > 0) {
+      if(segments[0].toLowerCase() === 'game' && segments[1]) {
+        gameSlug = decodeURIComponent(segments[1]);
+      } else {
+        // Match category, taking care of URL encoding
+        const rawCat = decodeURIComponent(segments[0]);
+        const matched = CATEGORIES.find(c => c.key.trim().toLowerCase() === rawCat.toLowerCase());
+        currentCat = matched ? matched.key : rawCat;
+      }
+    }
+
+    if (gameSlug) {
+      showGame(gameSlug);
     } else {
-      currentCat = cat || null;
       showBrowse();
       updateActiveCat();
     }
@@ -369,7 +382,7 @@ renderGrid();
       if (e.key === 'Escape') { e.target.blur(); }
       return;
     }
-    if (e.key === '/') { e.preventDefault(); els.search.focus(); }
+    else if (e.key === '/') { e.preventDefault(); els.search.focus(); }
     else if (e.key.toLowerCase() === 'r') pickRandom();
     else if (e.key === 'Escape' && !els.gameView.classList.contains('hidden')) setRoute({});
   });
