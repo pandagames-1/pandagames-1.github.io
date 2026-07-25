@@ -100,7 +100,7 @@
   function setRoute({ cat, game }, replace = false) {
     let path = '/';
     if (game) {
-      path = `/`;
+      path = `/game/${encodeURIComponent(game)}`;
     } else if (cat) {
       path = `/${encodeURIComponent(cat)}`;
     }
